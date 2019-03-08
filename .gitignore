@@ -1,0 +1,5 @@
+*.log
+Hello2019/bin/
+Hello2019/obj/
+Hello2019/Published/
+packages/
